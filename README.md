@@ -2,7 +2,7 @@
 <h3 align="center">Programmer | Full stack Web  </h3>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasalkabbi&layout=compact" /></p>
-
+<p align="center"> <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img  align="center" src="https://github-profile-trophy.vercel.app/?username=abbasalkabbi" alt="abbasalkabbi" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abbas-alkaabi/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ramyhakam" height="30" width="40" /></a>
